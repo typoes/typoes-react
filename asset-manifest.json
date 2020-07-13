@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/typoes-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/typoes-react/static/js/main.648c4a96.chunk.js",
+    "main.js.map": "/typoes-react/static/js/main.648c4a96.chunk.js.map",
+    "runtime-main.js": "/typoes-react/static/js/runtime-main.7991a592.js",
+    "runtime-main.js.map": "/typoes-react/static/js/runtime-main.7991a592.js.map",
+    "static/js/2.a7bc55f9.chunk.js": "/typoes-react/static/js/2.a7bc55f9.chunk.js",
+    "static/js/2.a7bc55f9.chunk.js.map": "/typoes-react/static/js/2.a7bc55f9.chunk.js.map",
+    "index.html": "/typoes-react/index.html",
+    "precache-manifest.49c8acee26f6cfdee6281a7b5bd6f4fd.js": "/typoes-react/precache-manifest.49c8acee26f6cfdee6281a7b5bd6f4fd.js",
+    "service-worker.js": "/typoes-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/typoes-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a7bc55f9.chunk.js.LICENSE.txt": "/typoes-react/static/js/2.a7bc55f9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/typoes-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7991a592.js",
+    "static/js/2.a7bc55f9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.648c4a96.chunk.js"
+  ]
+}
